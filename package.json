@@ -1,0 +1,23 @@
+{
+  "name": "fabryka_testow_cdp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LukaszPosmyk/fabryka_testow_CDP.git"
+  },
+  "author": "Lukasz Posmyk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LukaszPosmyk/fabryka_testow_CDP/issues"
+  },
+  "homepage": "https://github.com/LukaszPosmyk/fabryka_testow_CDP#readme",
+  "devDependencies": {
+    "cypress": "^12.0.2",
+    "@faker-js/faker": "7.6.0"
+  }
+}
